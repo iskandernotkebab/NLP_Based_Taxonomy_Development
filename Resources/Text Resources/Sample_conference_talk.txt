@@ -1,0 +1,3370 @@
+SANITIZED TEXT VERSION
+
+Sanitization notes:
+- Redacted presenter name, direct email address, URLs, organization branding, conference/date/location metadata, and repeated extracted footer artifacts.
+- Removed standalone page/slide-number lines created during text extraction.
+- Kept the general instructional content for review purposes. Before publishing publicly, confirm you have permission to redistribute the original conference material.
+
+--- SANITIZED CONTENT START ---
+
+GETTING STARTED
+WITH DATA
+GOVERNANCE
+
+[REDACTED_PRESENTER]
+[REDACTED_DATE] – [REDACTED_CONFERENCE]
+
+[REDACTED_PRESENTER] – BIO
+
+• Data Leadership Advocate, Consultant, CDO,
+Platform Builder, Data Architect, Entrepreneur
+
+• Sports Betting
+
+• Content: [REDACTED_URL]
+
+• Software: [REDACTED_URL]
+
+• LinkedIn:
+
+[REDACTED_URL]
+
+• Email: [REDACTED_EMAIL]
+
+
+--- PAGE BREAK ---
+
+WHAT DO YOU CARE ABOUT MOST?
+
+• “Getting Started with Data Governance” can
+
+mean different things
+
+• What does today’s topic mean to you?
+
+• Which specific areas are most important to
+
+hit well today?
+
+GETTING STARTED WITH DATA GOVERNANCE
+
+Key Principles
+
+
+--- PAGE BREAK ---
+
+WHAT IS DATA GOVERNANCE?
+
+• Data Governance is a collection of  practices and
+
+processes that help to ensure the formal management of
+
+data assets within an organization
+
+• It’s part of  a broader change management competency
+
+• But it is also a competency or center-of-excellence
+
+function to guide independent actors
+
+• Data Governance helps our organizations do data better
+
+WHAT DATA GOVERNANCE IS REALLY ALL
+ABOUT
+
+• There is value buried in our data, and if  left to chaos
+
+we won’t realize much of  that value
+
+• We need to be deliberate with our data so that it is
+reliable for use and organized in an intuitive way
+
+• People need coordinating to provide the scale and
+
+consistency necessary for data to drive value at scale
+
+• The value of  Data Governance is only exposed
+
+through the use of  the data it governs
+
+
+--- PAGE BREAK ---
+
+BUSINESS CHALLENGES ADDRESSED BY DATA
+GOVERNANCE
+
+• Codifying data standards, policies, and procedures
+
+• Creating data definitions
+
+• Assigning data owners and data stewards
+
+• Establishing a Data Governance council to make decisions
+
+• Resolving conflicts among data stakeholders
+
+• Delegating responsibility for data decision-making
+
+• Coordinating with a project management office (PMO)
+
+•
+
+Influencing technology systems development
+
+• Aligning data assets and activities to organizational goals (data strategy)
+
+• Building a quantitative culture through training and other communications
+
+WHAT DATA GOVERNANCE DOES NOT DO
+
+• Data Governance by itself  does not accomplish much at all
+
+• It is through Data Governance’s impact on other functions
+
+where it becomes valuable
+
+• Data Governance guides but does not directly build
+
+• It does not guarantee success in business, or even with data
+
+• Data Governance is not magic
+
+
+--- PAGE BREAK ---
+
+GETTING STARTED WITH DATA GOVERNANCE
+
+Drivers and Success Factors
+
+WHY DATA GOVERNANCE IS IMPORTANT
+
+• Data is used everywhere in our organizations
+
+• We often lack coordination to ensure consistent and
+
+reliable use of the same data
+
+• Relying on people doing “the best they can” is the default
+
+in many organizations
+
+• This results in data of unknown and varying quality
+
+• In turn, this data then drives business processes and results
+
+in unpredictable ways
+
+• Leading to deficiencies in business results = less successful
+
+organizations
+
+
+--- PAGE BREAK ---
+
+HOW DATA GOVERNANCE HAS EVOLVED
+
+Earlier Days
+
+Today
+
+• Data systems used to be highly centralized,
+driven by detailed specifications, heavy and
+difficult to change
+
+• Data Governance efforts looked similar:
+centralized authoritative bodies radiating
+policy and standards
+
+• Data systems are now largely decentralized,
+nimble, and adapting quickly using new
+technologies to seize new business
+opportunities
+
+• Data Governance needs to be similarly
+responsive, providing coordination in
+countless scenarios without bottlenecking
+
+progress
+
+
+WHY “CHECKING THE BOXES” MAY GET YOU STARTED,
+AND HOW TO MOVE BEYOND THIS
+• Many Data Governance coordination efforts are started in response to
+regulatory mandates, audit findings, or some other compliance-related
+stipulation
+
+• This is OK – we are happy any time and any way Data Governance gets
+
+going
+
+• But if we do not recognize the full breadth of the Data Governance
+
+potential, we will not only miss out on the bigger picture – but we will
+likely fail at the original goal of checking boxes!
+
+• This is because Data Governance done to satisfy an external constraint
+
+inevitably becomes an endless resource drain
+
+• If we can pivot Data Governance to being a net-positive return on
+
+resources, then we can build momentum
+
+
+--- PAGE BREAK ---
+
+DEFINING AND SELLING THE DATA GOVERNANCE
+MISSION
+
+• The ironic thing is that Data Governance needs to be everything to
+
+everybody, but we cannot start there
+
+• Value is determined by measuring the outputs from data-related use cases
+
+• This means that our Data Governance efforts must align to support
+
+valuable use cases
+
+• This is how we can generate organizational (macro) support for Data
+
+Governance
+
+• But generating support at the individual (micro) level is a different challenge
+
+• We will ultimately have to align incentives, motivate, and solve for “why”
+
+before anything we talk about from a “how” perspective becomes
+sustainable
+
+WHAT SEPARATES IMPACTFUL DATA
+GOVERNANCE
+• Real value comes only from impacting business outcomes
+
+• These can be measured three ways:
+
+• Revenues
+• Costs
+• Risks
+
+• Data Governance tends to be several abstractions removed from
+
+actual value-creating activities
+
+• This does not absolve DG from being held accountable to value
+
+• Strong Data Governance embraces this and builds the ability to
+
+maximize its value contribution
+
+
+--- PAGE BREAK ---
+
+WHY MANY DATA GOVERNANCE EFFORTS
+STRUGGLE
+
+• Data Governance activities are often multiple steps removed
+
+from real value
+
+• Failing to quantify the impact of Data Governance efforts
+
+• A tendency to focus inward on what is being done instead of
+
+outward on the impact being made
+
+• Going down paths of little relevancy to the business because of
+
+well-intended but flawed reasoning
+
+• A lack of resource commitment
+
+• Poorly aligned incentives to get people to participate
+
+• A lack of authority or accountability
+
+AVOIDING IMPOSSIBLE SITUATIONS
+
+• Data Governance is tough to get right, even in ideal circumstances
+
+• But the reality is often far from ideal, and DG is often viewed as a “nice-to-
+
+have” – so resource commitments can waver
+
+• The techniques we’ve discussed today are the best defense to unreasonable
+
+expectations
+
+• By promoting transparency, prioritization, and tradeoffs, we can usually
+
+find a reasonable path forward
+
+• When forced to betray these principles, we have a much tougher path
+
+ahead – continue to focus on transparency, communication, collaboration
+to resolve challenges
+
+• Measuring and documentation can be powerful allies
+
+
+--- PAGE BREAK ---
+
+THE ART OF POSITIONING FOR THE LONG AND
+SHORT TERMS
+• Data Governance is a long game won in the short term
+
+• Long-term accountability only exists through the aggregation
+
+of short-term results
+
+• Efforts can often get away with a lack of accountability or
+
+results in the short term
+
+• Do not fall into the trap!
+
+• We cannot go back in time to repair our past credibility
+
+• From the very beginning, we must hold ourselves accountable
+
+GETTING STARTED WITH DATA GOVERNANCE
+
+Core Functions and Frameworks
+
+
+--- PAGE BREAK ---
+
+THE MANY FACES OF DATA GOVERNANCE
+
+• A Data Governance organization is composed of many
+
+folks doing a wide variety of functions
+
+• These activities may be an integrated part of individuals’
+
+full-time jobs, or tangential
+
+• The terminology and specific responsibilities will vary
+from organization to organization, and even person to
+person
+
+• The way DG organization members communicate,
+
+collaborate, and resolve conflict often has its roots in how
+the DG effort was started in the first place
+
+HIGH-LEVEL DATA GOVERNANCE
+ORGANIZATION STRUCTURE
+
+• There are three key groupings of  DG roles:
+
+• Steering
+
+• Leadership
+
+• Stewardship
+
+• People may have multiple roles and different
+
+contexts
+
+Steering
+• DG Council
+• Executive Leadership
+• Validation
+• Escalation
+
+Leadership
+• Roles Assignment
+• Conflict Resolution
+• Accountability Enforcement
+• Strategy and Prioritization
+
+Stewardship
+• Front-Line Actions
+• Depth of  Knowledge
+• Implementation
+• Driving Adoption
+
+
+--- PAGE BREAK ---
+
+LEARNING HOW TO PICK YOUR
+SPOTS AND MAKE TRADEOFFS
+• There are a lot of  factors that go into defining your
+
+mission
+
+Coordination
+
+Financial
+
+• This is the fulcrum of  where hope and planning
+
+Technology
+
+Personnel
+
+meet realism
+
+• Constraints inevitably influence prioritization
+
+• The key to doing this successfully is being
+
+transparent and quantifying everything possible
+
+Operational
+
+Strategic
+
+IDENTIFYING YOUR MAIN OBJECTIVES
+
+• Prioritization activities happen at multiple
+
+levels:
+
+• Strategic/long-term goals
+
+• Specific outcome goals
+
+• Team objectives
+
+• Individual task-level planning and execution
+
+• Unplanned activities and emergencies
+
+• We must distill all of these into our planning
+
+• It’s probably a lot less clean than we would like
+
+
+--- PAGE BREAK ---
+
+TURNING INDIVIDUAL ASKS INTO A
+COMPREHENSIVE PLAN
+
+• Requests and directives will come from many places
+
+• Guidance may not be available or consistent
+
+• This is not easy, but that is exactly why we’re doing all this
+
+DG stuff
+
+• These help:
+
+• Organized intake
+• Quantified prioritization methods
+• Clear escalation procedures
+• Enough independent decision-making authority to avoid
+
+getting stuck
+
+WHY FRAMEWORKS ARE HELPFUL
+
+• Frameworks provide us with guidance to help us navigate often-
+
+complex scenarios
+
+• We all have blinders, and frameworks help us expand our field of
+
+view
+
+• After all, we are not the first people to be doing Data Governance
+
+• Frameworks are flexible to adapt to our needs
+
+• Frameworks help us leverage knowledge developed by others’
+experiences while letting us customize to our own unique
+situations
+
+
+--- PAGE BREAK ---
+
+UNDERSTANDING THE LIMITATIONS OF
+FRAMEWORKS
+
+• Frameworks are useful tools, but not magic
+
+• They help us, but they do not do it for us!
+
+• Overreliance on frameworks will often have the
+
+opposite of  their intended effect
+
+• Instead of  widening our blinders, we risk ironically
+
+ending up with tunnel vision
+
+• Think of  frameworks as a helpful guide to asking the
+
+right questions more than a simple path to easy
+answers
+
+SELECTING FRAMEWORKS
+
+• There are no shortage of  frameworks applicable to Data Governance
+
+• Not all are appropriate for every organization
+
+• Domain-specificity is not that important, as data challenges are
+
+universal
+
+• But in some highly regulated or complex domains, frameworks with
+
+domain specificity may be helpful
+
+• We are going to provide a quick introduction to two common
+
+frameworks as examples
+
+
+--- PAGE BREAK ---
+
+THE DAMA WHEEL
+
+• DAMA International produces the Data
+
+Management Body of  Knowledge (DMBoK)
+
+• This is a comprehensive reference source to the
+Data Management functions necessary to fulfill
+Data Governance objectives
+
+• It is particularly helpful in navigating
+
+complexities while solving specific data
+challenges
+
+• Deep but unwieldy
+
+THE DATA LEADERSHIP FRAMEWORK
+
+• Designed to be a resource for strategic prioritization
+
+• Emphasizes balance across five categories (gauges)
+
+• Each category contains five disciplines (levers)
+
+• Developed to address that system effectiveness is
+
+limited by its weakest component
+
+• Not deep compared to DMBoK, but useful to connect
+Data Governance initiatives and activities to business
+
+stakeholders
+
+
+--- PAGE BREAK ---
+
+THE DATA LEADERSHIP FRAMEWORK
+
+Access
+
+Refinement
+
+Adoption
+
+Impact
+
+Alignment
+
+Data Security
+
+Metadata
+
+Data Modeling and
+Warehousing
+
+Measurements, Metrics,
+KPIs
+
+Data Architecture
+
+Data Quality
+
+Traditional Reporting
+
+Regression Analysis and
+Predictive Modeling
+
+Data Wrangling
+
+Master Data
+
+Interactive Dashboards
+and Visualizations
+
+Machine Learning and
+Artificial Intelligence
+
+Development
+
+Enrichment
+
+System Integration
+
+Business Process
+Automation
+
+Strategy, Standards, and
+Policies
+
+Project and Program
+Management
+
+Marketing and
+Communications
+
+Organizational Training
+
+Building Quantitative
+Culture
+
+Support, Operations, and
+DevOps
+
+Curation
+
+Emerging Data
+Technologies
+
+Data Monetization
+
+Regulatory Compliance
+
+GETTING STARTED WITH DATA GOVERNANCE
+
+Structuring a Data Governance Organization
+
+
+--- PAGE BREAK ---
+
+DECIDING BETWEEN TOP-DOWN, BOTTOM-UP,
+AND HYBRID APPROACHES
+• This is a different consideration than the scoping of what we will do
+
+• This is about how we are structuring the operations of Data
+Governance itself, no matter what we choose to do with it
+
+• But it helps to have an idea of the most suitable scoping approach to
+
+inform the DG structure
+
+• The right answers to a DG structure will depend on a number of factors:
+
+• Organizational culture
+• Data strategy and known objectives
+• Scoping approach
+• Personnel likely to be involved
+• Resource commitments
+
+TOP-DOWN
+
+• The classic form of a Data Governance
+
+organization
+
+• Requires a well-developed hierarchy and role
+
+definitions
+
+• Especially relevant for organizations driving
+
+DG from a compliance or regulatory
+perspective
+
+• Good at creating policies and making
+
+decisions
+
+• Less capable in ensuring those policies and
+
+decisions are applied consistently
+
+Steering
+
+Executive
+
+DG Council
+
+Leadership
+
+Data Owners
+
+DG Coordinator
+
+Stewardship
+
+Subject Matter Experts
+
+Data Creators
+
+
+--- PAGE BREAK ---
+
+BOTTOM-UP
+
+• This feeds DG activity from the folks who work
+
+with the data most closely on up
+
+• The hierarchy exists as a decision escalation
+
+framework more than determining what needs to
+be done
+
+• This works especially well when the people who
+are closest to the data directly feel the pain of
+data problems
+
+• Not as good at creating broadly applicable
+
+policies
+
+• Excellent for establishing buy-in for the norms
+
+that are defined
+
+Steering
+
+Executive
+
+DG Council
+
+Leadership
+
+Data Owners
+
+DG Coordinator
+
+Stewardship
+
+Subject Matter Experts
+
+Data Creators
+
+HYBRID
+
+• This attempts to provide top-down structure
+through prioritization and policy creation
+
+• Attempts to push down decision-making to those
+who know the data the best while helping to
+coordinate what’s best overall
+
+•
+
+•
+
+Isn’t this always the goal? So what’s the problem?
+
+It’s incredibly difficult
+
+• Hybrid requires an outsized level of  coordination
+and resource commitment, and is much harder to
+keep running smoothly in the long term
+
+• And the bigger the organization, the harder it gets
+
+Steering
+
+Executive
+
+DG Council
+
+Leadership
+
+Data Owners
+
+DG Coordinator
+
+Stewardship
+
+Subject Matter Experts
+
+Data Creators
+
+
+--- PAGE BREAK ---
+
+TRANSLATING THE DATA GOVERNANCE
+CHARTER INTO A MESSAGE THAT RESONATES
+
+• The Data Governance charter serves several purposes:
+• A reference for DG participants to know what to do
+
+• A reference for non-DG participant stakeholders to know what is being
+
+done
+
+• To articulate the value proposition to interested parties
+
+• To provide clarity on terminology, especially that which may be unique to
+
+the organization
+
+• To connect the dots of  activities that may seem otherwise disconnected
+
+• The charter is an operational manual and a marketing tool
+
+•
+
+•
+
+It exists at the core of  any Data Governance organization, and it must
+always be kept in alignment with reality
+
+It answers the question, “So what is this Data Governance thing all
+about?”
+
+
+UNDERSTANDING THE ROLES AND DISTINGUISHING
+BETWEEN DATA STEWARDS, DATA CUSTODIANS, AND
+OTHER STAKEHOLDERS
+• Some Data Governance terminology seems to be universally
+
+confusing
+
+• Data stewards: are tasked with activities that have direct and
+
+material impact on the value of  data
+
+• Data custodians: often like data stewards but tend to be lower-level
+and more often technical, and with less clear impacts on the data.
+Are tasked less with changing data for the better, and more with
+trying not to make it worse
+
+• But the terms themselves can be whatever you make of  them!
+
+
+--- PAGE BREAK ---
+
+WHAT IT MEANS TO BE A “DATA OWNER” – AND
+WHY SOME PEOPLE MAY NOT WANT TO BE ONE
+
+• This one gets its own slide because it is both important and highly
+
+charged
+
+• Data owners are often the supreme subject matter experts for a domain
+
+of  data
+
+• These folks tend to be very busy and cannot possibly add one more thing
+to their overtaxed day, but will often agree and then not put in the time
+
+• Some will assign proxies, which can work, but only if  they are delegated
+
+actual decision-making authority as well
+
+• To some people, data ownership sounds an awful lot like a future bus to
+
+be thrown under
+
+• You don’t become somebody that gets asked to be a data owner without
+
+some amount of  political savvy
+
+ESTABLISHING A MODEL TO FIT DATA GOVERNANCE
+FUNCTIONS ALONGSIDE EXISTING WORK
+
+• We have talked a lot about structure so far, but now process is necessary
+
+• Rule #1: Do not start by having meetings to figure out a good process
+
+• Meetings are good for critiquing the process and adding additional
+
+ideas, but they are no way to fill a blank sheet of paper
+
+• Recognize that most (or all) of the people involved with Data
+
+Governance will have other responsibilities that will likely take
+precedence
+
+• This is a challenge, not a problem. The last thing we’d want is Data
+
+Governance being done by a bunch of people who have no idea how
+the business actually works
+
+
+--- PAGE BREAK ---
+
+THINKING ABOUT THE OBVIOUS QUESTION
+
+• If the previous slide has you asking, “How can we get people to
+
+do DG work?” then you are thinking about this correctly
+
+• This is the hardest part of Data Governance
+
+• Policies and rules, charters and role definitions, these are simple
+
+by comparison
+
+• In fact, many people think of those as Data Governance
+activities – they are actually pre-Data Governance when
+considered more deeply
+
+• We must apply them successfully to govern data, and this starts
+
+with motivating people to do DG work
+
+ESTIMATING AND COMMUNICATING THE
+EXPECTED BENEFITS
+
+• We will cover a lot about motivating folks to get involved, but first we need to
+
+understand why this all matters
+
+• We need to quantify the value of Data Governance as much as we can
+
+• This will start as estimates, taking baseline measurements, and looking at
+
+external research for benchmarks
+
+• Use these to establish success criteria that are as objective as possible and can be
+
+agreed to by the many Data Governance stakeholders
+
+• It is fine to debate estimates and benchmarks, and even measurements in some
+
+cases, but work to establish agreement on the evaluation process early on
+
+• This will make generating lasting momentum easier, because when the initial
+excitement and interest wane (and they will), we will need good data to justify
+Data Governance (in more ways than one!)
+
+
+--- PAGE BREAK ---
+
+GETTING STARTED WITH DATA GOVERNANCE
+
+Data Governance In Motion
+
+LEARN WHY STARTING WITH “WHO CAN HELP
+US?” IS A RECIPE FOR DISASTER
+
+• We’ve talked a lot about structure, planning, and driving interest
+
+• But thinking about Data Governance as “something important that
+
+people should help make happen” is backwards logic
+
+• Data Governance should be considered “a set of tools and
+
+capabilities that can help people do important things with data”
+
+• To make successful Data Governance, we cannot focus on the
+
+success of Data Governance
+
+• We must instead focus on the success we help others achieve
+
+• This manifests in servant leadership, where we use whatever we
+
+have to help as best we can, and ask for help as a means to an end
+
+
+--- PAGE BREAK ---
+
+LEARN WHY STARTING WITH MEETINGS IS ALSO
+A RECIPE FOR DISASTER
+
+• This is a potential issue when DG structure is given too much thought, too early
+
+•
+
+If  we get a Data Governance group of  folks together and say, “Go meet and do
+data-governancy stuff,” then they will get nothing done
+
+• Think about efficiency – writing a sentence is easier for one individual than for
+
+three, or 12
+
+• Fit the form to the function
+
+•
+
+If  you don’t know which DG activities need to get done, who will? Can you
+identify anybody better?
+
+• The best approach is to push a bit further in doing it yourself  than you
+
+reasonably should, and then have a meeting to present your thoughts and solicit
+questions and feedback
+
+HOW TO DOCUMENT AND ORGANIZE THE
+ARTIFACTS OF DATA GOVERNANCE
+
+• First, do not think this is as important as building the artifacts themselves
+
+• But a frightening number of organizations mess this up
+
+• Make Data Governance artifacts as easy as possible to find and use!
+
+• Do not lock them away in a file “share” with limited access
+
+• Intranet home page links are good
+
+• Data catalogs are good, great if widely used
+
+• Posters around the office are cheesy, but also good
+
+• Data Governance artifacts are our product, and products need customers!
+
+
+--- PAGE BREAK ---
+
+HOW COMMS AND MARKETING CAN MAKE THE
+DIFFERENCE BETWEEN FAILURE AND SUCCESS
+
+• We should think of  Data Governance as an internal business
+
+• People don’t buy things they don’t know about – see the previous slide
+
+• The best thing is that most people don’t need to buy Data Governance artifacts with dollars, they
+
+pay simply by using them
+
+• This should be the most successful business in the world with economics like that!
+
+• Yet we often fail to generate enough interest in something that costs our customers no dollars and
+
+exists for the sole purpose of  helping people improve the value they get from data
+
+•
+
+It’s because they don’t know it exists, or how to use the artifacts, or how to change their behavior in
+response to data insights, or that it is Data Governance that makes “data-driven” possible
+
+• This is not just why marketing and communications are important to Data Governance – these
+
+ARE Data Governance
+
+TECHNIQUES FOR CONDUCTING EFFECTIVE
+MEETINGS AND WORKSHOPS
+
+• Always have an agenda, and distribute it with the meeting request
+
+• Assign a secretary who is not leading the meeting to take notes and
+
+compile/distribute minutes
+
+•
+
+If  the meeting is taking place online, consider recording it for those who cannot
+attend
+
+• Ask all participants to take notes and send them to the secretary
+
+• Engage all attendees directly at least once in the session (this is surprisingly
+
+effective)
+
+• Encourage attendees not needed to conduct the business of  the meeting to
+
+instead review minutes or watch the recording, but encourage participation from
+anyone who wants to be part of  it
+
+• Keep the meeting moving with a stated goal of  ending early
+
+
+--- PAGE BREAK ---
+
+GETTING READY TO LAUNCH
+
+• It’s best to form as much of a plan as possible with a small team before
+
+trying to generate broader interest
+
+• People respond better when they see details – even if they disagree with
+
+them, this is a positive step
+
+• These getting-ready-to-start efforts should split between the primary
+
+challenge of establishing Data Governance and the secondary challenge
+of having it matter to the business
+
+• Establishing DG is relatively easy, but necessary – making a difference is
+
+much more difficult, and also necessary
+
+• Early actions (not planning activities) will set the tone and can make or
+
+break the overall effort
+
+YOUR ACTION PLAN FOR THE FIRST THREE
+MONTHS
+
+• “Low-hanging fruit” is a bad term – focus not on what is easy to do, but what
+
+can be most immediately valuable in the short term
+
+• This allows us to operationalize DG in a real way while also satisfying the
+
+marketing component that is just as important
+
+• Some possible DG activities:
+
+• Defining commonly used data and acronyms
+• Articulating a regulatory compliance or privacy policy for data and evaluating current
+
+issues
+
+• Establishing a suitability-for-use scoring methodology for data quality
+• Compiling business and technical metadata to support an ongoing initiative that is
+
+struggling
+
+• Data lineage analysis for key reports
+
+
+--- PAGE BREAK ---
+
+SCALING INITIAL PLANS INTO LONGER TIME
+FRAMES
+
+• The collection of initial activities should naturally build towards something
+
+more substantial
+
+• Longer-term planning can’t simply be tactical – it must align to business
+
+and data strategy
+
+• The longer the view, the higher the grain, and the more likely it will change
+
+• But momentum needs to build, so the short-term objectives should be
+
+considered as Part 1’s of multipart threads
+
+• This is an exercise in storytelling, also – long-term plans are about vision
+
+and dreams
+
+• The long term only arrives in short terms, so a regular update and
+
+communication cadence is essential
+
+IDEAS FOR GENERATING INTEREST AMONG PEOPLE
+WHO WOULD RATHER NOT BE BOTHERED BY THIS
+
+• Even with the best roadmap, plans, communications, support, etc., we will still
+
+find plenty of folks that just won’t care about Data Governance
+
+• They tend to have just as many data problems as everybody else
+
+• They may be intimidated by the technology components, or feel overwhelmed
+
+by their existing responsibilities and are shut off to anything else
+
+• It’s not usually as personal as it often feels
+
+• We cannot win over everybody, but we can serve everybody – if we orient our
+energies towards how we can help our detractors, we may find more willing
+participants
+
+• Always try to solve for “WIIFM?” (What’s in It for Me?)
+
+
+--- PAGE BREAK ---
+
+SIMPLE ENCOURAGEMENTS AND INCENTIVES
+
+• Awareness is perhaps the easiest and most cost-effective
+
+encouragement to drive interest
+
+• A table outside the cafeteria during “Data Governance Week” can
+
+be surprisingly effective, especially alongside giving away cookies or
+some other happiness
+
+• Public recognition can work well to encourage more active
+participation, and works even better in larger organizations
+
+• Team goals and challenges with a nominal award (happy hour, pizza
+party, personal day, trophy) can be great to get more collective results
+across a team
+
+• Transparency through publishing metrics by area, calling out both
+positive and negative outliers, can be a stronger tactic with lower
+costs (but a certain amount of political risk)
+
+WHY IT IS SO IMPORTANT TO GET PARTICIPATION
+FROM THE PEOPLE WHO STAND TO GAIN THE MOST
+• Remember “WIIFM?” – this motivates people perhaps better than
+
+anything
+
+• The people that stand to benefit most will be the most likely to be
+
+interested, so even if they are not ideal for doing the work, get them
+involved
+
+• Or see if you can complete a cycle where A helps B who helps C who
+
+helps A
+
+• The goal is to create perpetual motion through self-reinforcing behavior
+
+patterns
+
+• This is key to building lasting momentum that will grow without
+
+needing outside resource investments
+
+• The previous slide covered sparks, but we need fuel to keep the fire
+
+going
+
+
+--- PAGE BREAK ---
+
+THANK YOU!
+
+Please fill out your evaluation forms.
+
+LinkedIn: [REDACTED_URL]
+Email: [REDACTED_EMAIL]
+
+
+ABSTRACT
+
+Data Governance is the combination of two familiar words which, when combined, can confuse organizations of all
+sizes. These words represent a valuable ideal which is exceedingly difficult to achieve under the best of circumstances.
+When just starting out, it can be completely overwhelming.
+
+Fear not, as many others have been down this road before! Fortunately for you, our collective experience has unveiled
+many lessons about the journey to successful Data Governance. Interestingly, some early mistakes appear completely
+logical, yet cause immeasurable difficulties in establishing long-term success.
+
+This tutorial breaks down the whole mess and provides real help in how to get started with Data Governance. We
+will give you tools to teach your organization what successful Data Governance is all about and give you techniques
+to start making an impact right away. Highlights Include:
+
+• Learn the fundamental principles and functions of Data Governance
+
+• Learn how to structure an effective and sustainable Data Governance organization
+
+• Explore the concept of frameworks and how to apply them
+
+• How to generate interest and support for Data Governance
+
+• Get tips to avoid common pitfalls
+
+
+--- PAGE BREAK ---
+
+APPENDIX
+
+The following slides may prove useful in your Data Governance journey, or to
+address specific questions that arise during the conference tutorial session.
+
+GETTING STARTED WITH DATA GOVERNANCE
+
+Establishing Situational Awareness
+
+
+--- PAGE BREAK ---
+
+INFORMATION GATHERING
+
+• It’s great to start with “what we already know” exercises
+
+like we did earlier
+
+• Chances are, through this we identified a bunch of  things
+
+we don’t know
+
+• Certainly, we don’t have a complete perspective on
+
+stakeholder priorities
+
+• We’re going to need to collect information
+
+• This can take several forms
+
+SOURCES OF KNOWLEDGE
+
+• Documentation
+
+• Interviews
+
+• Workshops
+
+• Surveys
+
+• Focus groups
+
+• Benchmarking
+
+• Industry reviews
+
+• Third-party research
+
+
+--- PAGE BREAK ---
+
+DISTILLING CHAOS INTO CLARITY
+
+• As information is collected, it is necessary to put it into a
+
+form that can be acted upon
+
+• This will require simplification and deduplication
+
+• A spreadsheet is an excellent tool for this
+
+• But try to not over-document and make it too dense
+
+• Use more jumps if  needed to keep things simple
+
+• We’re aiming for something comprehensive that will be
+
+quantified and then used for DG initiatives prioritization
+
+APPLYING A FRAMEWORK FOR ANALYSIS
+
+• Once a collection of findings is available, we can start analyzing
+
+• We do not need to have information gathering completed to start
+
+• In fact, it is impractical to wait for everything before getting
+
+started on downstream tasks
+
+• It is OK to leverage multiple frameworks to drive different
+
+viewpoints of analysis
+
+• But the more complexity we introduce in analysis, the more
+
+difficulty we will have in communicating the results
+
+
+--- PAGE BREAK ---
+
+RECONCILING BUSINESS WANTS AND NEEDS
+WITH REALITY
+• Categorize the findings using your framework(s) of choice
+
+• Taxonomical categorization is usually overkill and/or impossible –
+
+think tagging more than hierarchies
+
+• This will depend somewhat on the framework(s) you use
+
+• Focus energies at this point on capturing objective truths
+
+• Variables and estimates can be debated, which we will encourage
+
+later
+
+• But it is much easier to do so alongside a sound categorization
+
+process
+
+• At this stage we will begin to identify opportunities to take action
+
+• Note them objectively and start capturing cost estimates, but don’t
+
+focus on planning or prioritizing anything yet
+
+GETTING STARTED WITH DATA GOVERNANCE
+
+From Business Strategy to a DG Roadmap
+
+
+--- PAGE BREAK ---
+
+DATA GOVERNANCE IS NOT JUST ABOUT DATA
+
+• Data Governance does not do much without change
+
+• This must be aligned with existing project and program
+
+management, but it is not the same thing
+
+• Data Governance-driven change will cut across those initiatives
+
+just like data itself is used in multiple ways
+
+• Because Data Governance artifacts tend towards the intangible,
+
+we must be thorough and clear at how we arrive at plans
+
+• This not only serves doing the right things, but justifying the
+
+value those activities create in the end
+
+PRIORITIZING OBJECTIVES AND IDENTIFYING
+TRADEOFFS
+• Once we have done isolated analysis of problems,
+opportunities, and levels of effort, we can push
+towards prioritization
+
+• Priorities must take into account benefits and costs
+
+• The temptation of outcome-only prioritization leads
+
+to impossible situations
+
+• Our focus should be on presenting clear options and
+
+tradeoffs to DG Steering
+
+• The business should ultimately set priorities – either
+directly or by validating the recommendations of DG
+
+
+--- PAGE BREAK ---
+
+NO CONSULTANT REQUIRED
+
+• We already know more about our businesses than a consultant ever will
+
+• Developing the skills to analyze the situation how consultants would may
+
+save a lot of money
+
+• One risk is from the blinders of being too close to the problems
+
+• Another risk of going alone is consultants have often seen similar
+
+problems many times over
+
+• But there is no consultant “magic” – we can use the techniques they use
+
+too
+
+• Note that we may encounter internal resistance because external
+
+resources can be perceived as more credible or authoritative
+
+GETTING STARTED WITH DATA GOVERNANCE
+
+Writing a Data Governance Charter
+
+
+--- PAGE BREAK ---
+
+INTRODUCTION TO DATA GOVERNANCE
+CHARTERS
+• This is effectively the mission statement for our Data
+
+Governance efforts
+
+• Articulates the context and purpose of  Data Governance
+
+• Provides a beacon of  light towards which related efforts go
+
+• It should be a product resulting from activities like those in
+
+the previous section
+
+• If  it is too aspirational rather than practical, it will be
+
+irrelevant
+
+UNDERSTANDING YOUR AUDIENCE(S)
+
+• A Data Governance charter read only by Data Governance folks
+
+is not much help
+
+• A charter must serve many audiences, not all of whom need to
+
+read the whole thing
+
+• Need to balance the outward clarity of purpose with the details
+
+of making it happen
+
+• Structure the charter to go from higher-level mission and
+
+structure in the front to more details as it goes on
+
+• A DG charter should not be a static document – growing it over
+
+time is fine, even recommended
+
+
+--- PAGE BREAK ---
+
+UNDERSTANDING LEADERSHIP MOTIVATIONS
+
+• Business leadership does not really care about our Data
+
+Governance charter, per se
+
+• They do care about the results we get from our activities
+
+• But they will be held accountable for their investments in
+
+our DG efforts
+
+• We want to help them accurately evaluate their
+
+investments in DG, and the charter helps us define the
+lenses by which these will be judged
+
+PUTTING THE CHARTER TO USE
+
+• Charters are foundational to how we operate our DG efforts
+
+• If they become shelf-ware, they have lost their purpose
+
+• Just like any roadmap, if they are not regularly updated, they will
+
+lose relevancy
+
+• So we must integrate the charter into DG processes – any
+
+deficiencies will become apparent faster, and we’ll be able to
+adjust quickly
+
+• It will also help build awareness of the charter’s existence and help
+
+connect DG to other change management efforts
+
+• This in turn helps Data Governance become more tangible, and its
+
+impact more visible
+
+
+--- PAGE BREAK ---
+
+GETTING STARTED WITH DATA GOVERNANCE
+
+Overcoming Common Objections
+
+NEUTRALIZE RESISTANCE TO CHANGE THROUGH
+EDUCATION
+• Change is a necessity for Data Governance to accomplish anything
+
+• People naturally resist change, seeing it as a threat
+
+• It’s difficult to counter the status quo, even in good circumstances
+
+• But people’s difficulties with data are known, and they have long
+
+been frustrated
+
+• Data Governance can give them a path to resolving these
+
+longstanding headaches
+
+• Resolving the fear of the unknown with better information will not
+by itself get people to act, but it will lessen the friction and inertia
+
+
+--- PAGE BREAK ---
+
+HEADING OFF UNSUSTAINABLE OR UNREASONABLE
+EXPECTATIONS BEFORE THEY GET OUT OF HAND
+• The downside of promoting the benefits of Data Governance is that
+
+people want them immediately
+
+• Often the people that are working hardest for DG do not receive the
+
+benefits directly
+
+• This can lead to an unsustainable pattern or the perception of
+
+unfairness
+
+• It is better to provide more direct benefits than to explain why we
+
+can’t provide more direct benefits
+
+• Communicating clearly and often is a start, but aligning individual
+
+incentives long-term is necessary if you want this to last
+
+CREATING INCENTIVES TO INSPIRE PROGRESS
+
+• First, incentives do not always need to be monetary
+
+• There is inherent good in the work of Data Governance – this improves
+our businesses, and people that make this possible should be rewarded
+
+• Recognition is a simple, cheap, and effective approach to reward efforts
+
+• This is more effective when you are doing a good job measuring Data
+
+Governance results
+
+• Tying to formal employee performance evaluations can be useful
+
+• Team-based objectives and rewards can be useful too
+
+
+--- PAGE BREAK ---
+
+WHAT TO DO WHEN YOU HAVE NO BUDGET,
+PEOPLE, OR TIME
+
+• Thinking about incentives is useful, but may be too ambitious for
+
+many organizations
+
+• Some of us will be struggling to do anything at all
+
+• Bootstrapping Data Governance from nothing amplifies the
+
+likelihood of unsustainability
+
+• This is where small, meaningful iterations will get you going and
+
+give you enough breathing room to build on early successes
+
+• You may need to roll up your sleeves and create initial artifacts
+
+on your own
+
+• Try to enlist a few people to do the same. This creates an initial
+nucleus of support and helps limit the perception of you as a
+lone wolf/wild card.
+
+SIMPLE VIRTUOUS CYCLE
+
+1.  Measure something
+
+2.  Identify possible improvements
+
+3.  Make them happen
+
+4.  Repeat
+
+
+--- PAGE BREAK ---
+
+THE IRONY OF DATA GOVERNANCE AUTHORITY
+
+• Data Governance organizations often only have
+
+authority implied from the roles of  their individuals
+
+• This means that an organization designed to create
+
+and enforce rules has no direct power to do so
+
+• This is normal – sure, it is wrong, but this is how it is
+
+in most organizations in the early days
+
+• To earn actual authority, Data Governance has to get
+
+things done without it
+
+YOU WILL NEED TO MANAGE UP
+
+• This means influencing in every direction, especially up the
+
+chain of  command
+
+• Why? Because that’s where the biggest decisions get made,
+
+and Data Governance must serve them
+
+• “Serve” is the most important word in all of  this – our
+
+influence will depend on adding value to others
+
+• Adding value to others is tricky if  they ignore everything
+
+Data Governance does
+
+
+--- PAGE BREAK ---
+
+TRANSFORMING A LACK OF UNDERSTANDING
+OR INTEREST
+
+• This plays at both large and small scales, so it works when you need to
+
+convince 1 person or 1,000
+
+• We need to understand people are busy, and are not always inclined to
+
+learn something new
+
+• To grab attention, even briefly, people need to see what is in it for them
+
+• This can take several forms:
+
+Indirect benefit
+
+• Direct benefit
+•
+• Charity
+• Entertainment
+
+• And do not always expect people to be rational – they won’t be
+
+CREATING PROTOTYPES TO DEMONSTRATE, RATHER
+THAN JUST EXPLAIN, HOW THINGS WILL WORK
+• Data Governance is intangible, so why not try to make it easier to
+
+understand?
+
+• Applied Data Governance creates more tangible outcomes
+
+• This requires influencing a greater part of the data lifecycle
+
+• We do this by building business capabilities that create value from data
+
+• Start with simple creations designed to demonstrate viability of a
+
+hypothesis
+
+• If you can’t build it yourself, learn how, or partner with somebody who
+
+can
+
+• This need not be overly complex or ambitious – just persuasive
+
+
+--- PAGE BREAK ---
+
+GETTING STARTED WITH DATA GOVERNANCE
+
+Scoping Data Governance – Options for Driving Value
+
+DATA GOVERNANCE HAS TO START
+SOMEWHERE
+• You will not successfully move from nothing to
+comprehensive Data Governance all at once
+
+• Just like growing anything, it is essential to be thoughtful
+
+and deliberate in making it happen
+
+• We may not control these decisions ourselves, but we can
+
+often help guide others
+
+• A Data Governance organization must align first on an
+
+overall approach
+
+• Then we can better gain consensus on specific objectives
+
+
+--- PAGE BREAK ---
+
+OPTION: DIVING DEEP INTO SINGLE BUSINESS
+UNITS
+
+• This is a popular way to start because it naturally limits stakeholders via organizational
+
+lines
+
+• It also often allows Data Governance to attach to existing initiatives with funding and
+
+awareness
+
+• The potential fallout from learnings or failure is more isolated, so we have a chance to
+
+get it right at a small scale before expanding
+
+• Provides a lead-by-example opportunity through more comprehensive DG functional
+
+coverage
+
+• The risk is unless Data Governance can prove its worth and adaptability to other areas
+
+of the business, it may never turn the corner
+
+• It also generates little awareness or contribution outside the business unit, so
+expanding DG will require an amount of starting over with each new group
+
+OPTION: COVERING MANY AREAS BUT AT A
+SHALLOW DEPTH
+
+• This option is also popular, especially when there are data issues impacting
+
+many areas of  the business
+
+•
+
+•
+
+It engages more people up front, which can lead to better awareness and
+interest
+
+It provides functional focus and an ability to get it right in a targeted way
+
+• Can be easier to scale after initial success because the hearts and minds are
+
+already won
+
+• However, it can be difficult to generate large-scale interest in a limited feature
+
+set
+
+•
+
+It also has a way of  becoming overwhelming, due to quantity of  data,
+underlying quality inconsistencies, or simply the challenge of  herding so many
+“cats” at once
+
+
+--- PAGE BREAK ---
+
+OPTION: BIG BANG – A METHODICAL PREPARATION
+WITH A HIGH-PROFILE LAUNCH THAT INTENDS TO
+ACHIEVE BOTH BREADTH AND DEPTH
+
+• This is a traditional approach, especially common with large and complex data
+
+environments that need both an enterprise purview and a more complete capability set
+
+• The structure can help to roll out capabilities at a scale big enough to matter to a larger
+
+business, especially through more rigorous training and implementation programs
+
+• The scale supports a more quantitative review and enhancement process, providing
+
+clearer views into when things are not going as desired
+
+•
+
+•
+
+It requires a lot of  investment and patience to get it done right, and the return happens
+over a longer time frame
+
+If  not well-designed and equally well-executed, it runs the risk of  launching to great
+excitement only to fizzle out quickly
+
+OPTION: LATCHING ONTO AN EXISTING
+TRANSFORMATION PROJECT
+
+• By riding the coattails of  an existing initiative, Data Governance has the opportunity
+
+to quickly impact the success of  something that has already been approved
+
+• Scope and functionality will be limited, making it more approachable
+
+• The results can be very direct and meaningful
+
+• People uninvolved with the existing project will either be completely unaware of  a
+Data Governance effort, or puzzled why they are being asked to help a project they
+aren’t involved with
+
+• There is often resistance to additional funding or other resources being added to a
+
+project already approved and possibly underway
+
+• This approach will be more difficult to transition to a larger-scale effort later
+
+• This feels like a much less strategic approach, but it may be a good fit when resources
+
+are particularly scarce
+
+
+--- PAGE BREAK ---
+
+GETTING STARTED WITH DATA GOVERNANCE
+
+Overcoming skills gaps
+
+IDENTIFYING THE SKILLS YOU NEED BUT DON’T
+YET HAVE
+
+• Few Data Governance programs have all the skills they need at their
+
+disposal, especially at the start
+
+• Determining the specific skills needed is effectively a cross-reference between
+the priorities and plan along with the framework(s) we are using to inform
+our approach
+
+• The place to start is with the people involved in our Data Governance efforts
+
+• Ideally, we can survey these folks and find their strengths and applicable
+
+experience
+
+• Then we can identify gaps and provide training resources to resolve the small
+
+ones
+
+• But larger gaps often require involving additional people
+
+
+--- PAGE BREAK ---
+
+DETERMINING WHERE (OR IF) THEY EXIST IN
+YOUR ORGANIZATION
+
+• The larger the organization, the more complex identifying skilled
+
+participants can be
+
+• Fortunately, most organizations have patterns in how they are
+
+structured
+
+• Key areas to spot possible Data Governance skills:
+
+• Technology
+• Marketing
+• Finance
+
+• There are often subgroups in individual business units that
+
+complement the enterprise functions
+
+• Be willing to partner with HR and PMO to see how they track
+
+down resources internally
+
+WAYS TO OVERCOME SKILLS GAPS: KNOWING WHEN
+“GOOD ENOUGH” IS GOOD ENOUGH, AND WHEN YOU
+REALLY NEED AN EXPERT
+
+•
+
+Internal resources are inevitably cheaper and more knowledgeable about our
+organization
+
+• However, some specialized skills may simply not exist internally
+
+• This is especially true the more advanced your Data Governance efforts become
+
+• The other problem is availability – sometimes you will have the skills, or
+
+reasonable facsimiles, but they won’t be able or willing to help
+
+• A reasonable tradeoff  can be hiring a consultant to help build and train, and then
+
+internal folks can take over the ongoing operations
+
+• Never bring in a consultant without the option to operationalize internally in the
+long term – and be very suspicious of  consultants whose business model is to
+never leave
+
+
+--- PAGE BREAK ---
+
+GETTING STARTED WITH DATA GOVERNANCE
+
+Data Literacy
+
+DATA GOVERNANCE AND DATA LITERACY
+
+• Appreciating Data Governance starts with appreciating the
+
+potential of data
+
+• This is the foundation of data literacy
+
+• Upon that foundation we establish skills to do productive
+
+things with data
+
+• These come in the form of analytics, data-driven business
+
+processes, and automation
+
+• Data Governance only becomes relevant when data activities
+are abundant enough to justify the effort of improving their
+coordination
+
+• Data Governance only becomes successful when this is done
+
+well, and people know it
+
+
+--- PAGE BREAK ---
+
+DEMONSTRATING THE VALUE OF DG IN WAYS
+EVERYBODY IN THE ORGANIZATION WILL UNDERSTAND
+
+• Data Governance is a change management function as much as anything
+
+• Marketing and communicating the impacts is as important as the impacts
+
+themselves
+
+• This is all too far abstracted, with too many layers, to explain to everybody
+
+in detail
+
+• So measuring, benchmarking, and reporting outcomes are better than
+
+reporting activities
+
+• This way you don’t need to know how the sausage is made to appreciate its
+
+taste
+
+• The need to market the value of  Data Governance has multiple levels
+
+• Awareness that DG is a thing
+
+• Compliance with DG policies
+
+• Participation in DG activities
+
+DATA EDUCATION THAT WORKS FOR
+ORGANIZATIONS OF ALL SIZES
+
+• Data is scary to some, mundane to others, and only some folks will
+
+actually embrace it
+
+• The functional roles people have will also influence their data
+
+responsibilities and needs
+
+• Technology comfort and sophistication also play an important part
+
+• Programs should be developed to serve all of these audiences
+
+• Consider offering:
+
+• At-your-own-pace training, ideally online
+
+• Self-service reference materials
+• Participative/applied learning opportunities (e.g., hands-on tutorials)
+
+• Collaborative and networking events (e.g., conferences)
+
+
+--- PAGE BREAK ---
+
+KEY CONCEPTS OF DATA LITERACY AND WHY IT
+IS IMPORTANT TO DATA GOVERNANCE
+
+• Understanding and awareness of the need and benefits
+
+• Being aware that data literacy is a concept with value
+
+• This is an easy piece for the “already”-data-literate folks to miss
+
+• Technical data literacy: ability to connect to data sources and perform
+
+analysis
+
+• Business data literacy: ability to draw conclusions from data analysis and
+
+identify opportunities for beneficial change
+
+• Applied data literacy: taking data-driven insights and performing the
+organizational changes that result in measurable business impact
+
+• Data Governance takes us from understanding and use of data resources to
+
+coordination and improvement of those resources
+
+DEVELOPING TRAINING PROGRAMS
+
+• Starting with an opt-in approach may be preferable in the early days
+
+• Mandatory training can be worthwhile, but tends to be more successful when
+
+departments or teams are asking for it
+
+• Recognize that the content needs will also vary by group:
+
+• A basic course in Data Quality might be useful for everyone, but advanced
+
+statistical modeling would likely apply to a small subset of the organization – and
+data scientists, for example, would find it a waste of time
+
+• Try to balance customization with consistency, as there is benefit in having
+
+everyone experience the same foundational training
+
+• Above everything, keep alignment with business strategy and Data
+
+Governance objectives – training should not go off on its own thread
+
+
+--- PAGE BREAK ---
+
+EXPANDING REACH AND AWARENESS
+THROUGHOUT THE ORGANIZATION
+
+• It’s unlikely that we will get everybody in the organization to participate in
+
+formal data training
+
+• We can still establish commonly known and accepted best practices
+
+• Think like a marketer: we need impressions in a variety of contexts to get people
+
+familiar
+
+•
+
+Intranet sites + events + manager announcements + success stories + training options
+
+• The more places people see us in the business, the better the perception of our
+
+role in the business
+
+• But nothing beats actually making a real difference in the underlying capability
+of data, and giving people the ability to apply it to creating improved business
+outcomes
+
+GETTING STARTED WITH DATA GOVERNANCE
+
+Enforcing Governance
+
+
+--- PAGE BREAK ---
+
+HOW TO COMMUNICATE AND ENFORCE COMPLIANCE
+WITH THE OUTPUTS OF DATA GOVERNANCE
+
+• A core tenet of Data Governance is the enforcement of authority
+
+• We create policies and standards, and some well-meaning folks may even find them and
+
+adhere to them out of the kindness of their hearts
+
+• But the rest (most) will not go out of their way to learn what they should or shouldn’t do
+
+with data
+
+• Even people that know better may be lazy or even unintentionally noncompliant
+
+• The best compliance enforcement keeps the bad actions from happening in the first place
+
+• If that isn’t possible, activity reviews should flag problematic activity
+
+• Consequences should be appropriate for the transgression
+
+• This starts with education a lot of the time, and escalates from there
+
+LEARNING WHEN TO USE THE CARROT AND THE
+STICK
+
+• People will generally do what they can get away with
+
+• After education, more aggressive measures may need to be taken for
+
+repeated issues
+
+• Broadly applied training programs are questionably effective – people
+often pay little attention, and retention of nuanced information is
+poor
+
+• Fortunately, legal and compliance departments tend to carry big
+sticks, so Data Governance needs a strong partnership with them
+
+• Plus, they will be needed to execute proactive compliance workflows,
+
+especially when approvals are part of the process
+
+
+--- PAGE BREAK ---
+
+WHAT TO DO WHEN YOU HAVE NO “REAL”
+AUTHORITY
+• Data Governance is not always given the authority to do the
+
+things it needs to do
+
+• This is not an excuse and may actually be the right structure
+
+• Data Governance can lean on the power of its participants –
+and if the participants have no power, they need to find some
+allies who do
+
+• This is not optional if you want to have Data Governance
+
+• The alternative is instead creating a “Data Best Practice Center
+
+of Excellence” or some other toothless advocacy function
+
+• Failing to have the hard conversations with leadership will put
+
+us in an unwinnable scenario
+
+GETTING STARTED WITH DATA GOVERNANCE
+
+Data Governance Artifacts
+
+
+--- PAGE BREAK ---
+
+LEARN WHAT DATA GOVERNANCE PRODUCES
+
+• Data Governance can exist by creating charters, policies/standards, and
+doing metadata stuff like creating data definitions and business glossaries
+
+• Data Governance that gets more active with Data Quality and master
+data starts to improve data assets and connecting them to business
+improvements
+
+• Ensuring compliance gives Data Governance a deeper operational
+responsibility that strengthens the connectedness to the business
+
+• There is a danger in all of this of producing a bunch of thought-ware that
+
+never gets implemented appropriately
+
+• It’s a far better scenario if Data Governance becomes ingrained in the
+development of data capabilities themselves – hence the emphasis on
+change management
+
+WHY FILE SHARING AND SPREADSHEETS ARE
+NOT ENOUGH
+• Many of the Data Governance artifacts we produce may naturally fit
+
+in documents, spreadsheets, and slide decks
+
+• This leads to the question of how to store and then distribute these
+
+• Some organizations rely on file sharing mechanisms, which are
+
+almost universally designed to support the people storing them instead
+of the people who might benefit from finding them
+
+• At minimum, any file sharing locations need to be easily discovered,
+
+with no unnecessary security
+
+• Data Governance needs to recognize that despite all the effort in
+
+creating artifacts, they do not really accomplish anything until they
+are used by someone
+
+
+--- PAGE BREAK ---
+
+FIND OUT HOW DEFICIENCIES IN THIS AREA ARE
+AMONG THE TOP REASONS DATA GOVERNANCE FAILS
+• Data Governance fails all the time, even in organizations that really
+
+need it to be successful
+
+• It is generally not because the work the Data Governance folks did
+
+was poor
+
+• More commonly, Data Governance fails for one of two reasons:
+
+• The artifacts of Data Governance are never found by those who
+
+would benefit from them
+
+• The artifacts of Data Governance, though found, fail to deliver
+business improvements that justify the costs of producing them
+
+• This gives us the choice to either improve the artifacts themselves
+
+or make it easier to find them
+
+• Wouldn’t it be great if we could do both at once?
+
+
+GETTING STARTED WITH DATA GOVERNANCE
+
+Quantifying Data Governance
+
+
+--- PAGE BREAK ---
+
+BASIC APPROACH TO QUANTIFIED DATA
+GOVERNANCE
+• There is a continuum of types of measures:
+
+• Inputs: activity, direct control
+
+• Outputs: results, direct influence
+
+• Impacts: value, indirect influence
+
+• Inputs are easiest to measure, but least important overall
+
+• Impacts are the most important, but can be extremely
+
+difficult to quantify
+
+• Outputs are in the middle, but run the risk of being used
+
+as a proxy for value – they are not the same thing!
+
+KEY TERMS FOR QUANTIFICATION
+
+• Measurement – a data point that changes over time
+
+• Metric – a collection or calculation using measures for comparative
+
+purposes
+
+• KPI – special metrics that we exert influence over, used to track
+
+performance relative to an established target. Often uses a red-yellow-
+green performance indicator
+
+• Baseline – initial measurements or metrics from before a change is
+
+made
+
+• Benchmark – a level of expected results determined from similar
+
+situations, typically from different parties
+
+• Target – a goal state to be achieved through upcoming activities
+
+
+--- PAGE BREAK ---
+
+LEARN USEFUL MEASUREMENTS, METRICS, AND
+KPIS FOR DATA GOVERNANCE
+
+• Inputs
+
+• Terms defined
+• Data stewards trained
+•
+Issue resolution time
+
+• Outputs
+
+• Data catalog usage
+• Data-driven behaviors
+• Net promoter scores
+
+• Impacts
+
+• Operational efficiency improvements (cost)
+• Sales improvements (revenue)
+• Regulatory certifications (risk)
+
+TECHNIQUES FOR BENCHMARKING AND
+MONITORING PROGRESS
+
+• First, start measuring whatever you can, even if you have no idea what
+
+you are doing or what you are going to use it for later
+
+• Don’t overdo laborious measures, but at least capture the easy stuff
+
+• Benchmarks are most often drawn from external sources and research
+
+• In setting targets, revise to fit appropriately with your organization
+
+• Look to set up automated measures and reporting results wherever
+
+possible
+
+• The more friction the quantification process has, the more difficult it
+
+will be to keep it going
+
+
+--- PAGE BREAK ---
+
+DATA DEBT – AND HOW TO ADDRESS IT
+
+• Data debt is a sibling of technical debt, and represents data work that
+
+needs to be completed at some point, but is skipped in the short term to
+satisfy another, typically more urgent, objective
+
+• The idea is if we accumulate data debt without ever taking responsibility
+
+and addressing it, we will put ourselves into data bankruptcy
+
+• There is a bit of theoretical slant to this, but the principles are valid, and
+measures will help us more transparently evaluate and treat data debt
+
+• We should keep this in mind as we quantify Data Governance, because
+
+DG is how we coordinate the activities that pay down data debt
+
+• Data debt may be a good way to help demonstrate the value of DG efforts,
+especially in situations where impact measurements are difficult to develop
+
+IDENTIFYING WHEN SOMETHING IS NOT
+WORKING
+
+• Measures need to be watched and reviewed regularly for them
+
+to be worthwhile
+
+• KPIs are especially helpful to drive action, as long as they are
+
+not ignored
+
+• It is fine, necessary even, to update targets or swap in new
+
+measures as business circumstances evolve
+
+• Be cautious not to massage targets or select data to fit a
+
+preconceived story line
+
+• Better to adjust activities to result in better measures – this is
+
+the whole point!
+
+
+--- PAGE BREAK ---
+
+HOW TO ADJUST DIRECTION WITHOUT LOSING
+MOMENTUM
+
+• Unfortunately, more transparency sometimes shows us that we’re not as
+
+effective as we could be
+
+• This is certainly better than not knowing, but sometimes can lead to being
+
+an easier target than other efforts that may hide more in the shadows
+
+• Proactively identifying issues and then coming up with proposed solutions
+
+is a good way to disarm these scenarios
+
+• People get tired of being presented problems alone, so if we can present a
+balanced problem and solution it will be easier for folks to approve and
+save their mental energy
+
+• Data Governance needs to be action-oriented as much as possible, but
+
+there is a place for analysis and more contemplative strategy and planning
+
+GETTING STARTED WITH DATA GOVERNANCE
+
+Reporting and communications
+
+
+--- PAGE BREAK ---
+
+THE MANY LAYERS OF TRANSPARENCY
+
+• We talk a lot about transparency in general, but it is worth spending a
+
+moment on specifics
+
+• There are several components to transparency:
+
+• Availability – are the measures easy to find and access?
+• Accuracy – is the underlying data suitable to draw the conclusions being
+
+made?
+
+• Objectivity – do the components and the overall conclusions reflect truth?
+• Clarity – are the findings easy to understand?
+• Actionable – do the insights lead to productive actions or decisions?
+
+• These might extend beyond a traditional view of transparency, but if we
+were to remove any of them, would things move more or less towards
+perfect transparency?
+
+UNDERSTANDING GRANULARITY
+
+• Granularity (or grain) is a synonym for precision
+
+• It’s all about how much detail is included in what we are doing
+
+with data
+
+• The lower-level the granularity of something is, the more detailed it
+
+is. This is in comparison to high-level
+
+• Whereas higher precision means more detailed. This can get
+
+confusing
+
+• Data always has a level of native granularity that may or may not
+
+be possible to change
+
+• Granularity is important at every part of the data lifecycle, but
+
+perhaps most important as we look to share information
+
+• The level of granularity we need correlates to the types of decisions
+
+needing to be made
+
+
+--- PAGE BREAK ---
+
+WHY LESS IS USUALLY MORE, ESPECIALLY FOR
+EXECUTIVES
+
+• Executives make high-level decisions with major consequences, often driven by
+
+incomplete information
+
+• To wait for complete information may often mean losing out on a potential
+
+opportunity
+
+• Unnecessary details can make executive-level decision-making more difficult
+
+• People are biologically wired to conserve mental energy, and find it far easier to
+
+make decisions when the amount of information is in alignment with the
+magnitude of the decision
+
+• We see this in our daily lives when ordering off a restaurant menu – is it easier or
+more difficult to make a decision when the menu is enormous, with every option
+imaginable?
+
+• We don’t always need to include every bit of supporting information to drive the
+
+right insights and resulting actions
+
+VISUALIZATION TOOLS
+
+• Visualizations are especially helpful for people to consume information to
+
+drive decisions and activities
+
+• They allow us to see numbers over time and react to trends
+
+• Business intelligence dashboards often allow us to interact directly and drill
+
+down into more details when things look “interesting”
+
+• The danger with visualizations is that they are prone to oversimplify and
+may unintentionally (or intentionally) mislead data consumers through
+questionable designs
+
+• Pretty visualizations can also obfuscate Data Quality, especially where Data
+
+Quality scoring is unavailable
+
+• Also, some visualizations are inherently worthless, despite looking visually
+
+interesting
+
+
+--- PAGE BREAK ---
+
+GETTING STARTED WITH DATA GOVERNANCE
+
+Formalizing Accountability for Data Governance
+
+NAVIGATING ORGANIZATIONAL HIERARCHIES
+AND POLITICS
+
+•
+
+If  we are spearheading Data Governance from a place of  limited direct authority, we need to develop
+some political savvy
+
+• Even with executives backing Data Governance, we only have so much political capital to work with
+
+• People more likely to benefit from our efforts are the ones we should approach first, to verify that we will
+
+actually be helping, and to gain their assistance (or leverage their political capital)
+
+• Data Governance is not a fast way to gain power in an organization, but it may be a long-term way to
+
+build relevance and can ultimately lead to exciting career opportunities
+
+• Marketing becomes important in developing alliances and generating participation
+
+• Be wary of  generic “support” – this is commonly becoming a way of  brushing people off  without being
+
+confrontational
+
+•
+
+It is better to rely on quantitative information driven by activities and results than qualitative assertions
+from others with no quantifiable actions
+
+
+--- PAGE BREAK ---
+
+HOW TO DETERMINE TITLES AND ROLES
+
+• Data Governance titles are a tool for communication
+
+• DG participants can better understand their roles and expectations
+
+• Other DG stakeholders have a better gauge on what is happening
+
+• Beyond this, titles are flexible, and should be adapted to the needs and culture
+
+of your organization
+
+• Common titles: data steward, DG coordinator, data custodian, data or
+domain owner, subject matter expert (SME), executive sponsor, DG
+committee member, metadata manager, technical SME, business process
+owner, data quality manager, master data manager, data catalog
+administrator
+
+• DG titles and roles can overlap with a “regular” job, or can be somebody’s
+full-time role the more DG activities are operationalized into the regular
+workings of the business
+
+WHAT IT MEANS TO BE A DATA OWNER
+
+• Data ownership is a particularly charged title worth spending a little time
+
+discussing
+
+• Data owners tend to be identified as the most knowledgeable person
+about a data domain or area of  the business reflected in the data
+
+• These folks are often not directly involved in the Data Governance stand-
+up effort until they are asked to join it – they are usually already busy
+doing work in their area of  the business
+
+• The data ownership assignment conversation can be uncomfortable – this
+
+can feel like a bull’s-eye more than a beneficial role to the individual
+
+• Time commitments can also be an issue – the most effective data owners
+delegate almost all of  their work to others, and then review or resolve
+escalations as appropriate
+
+•
+
+It’s almost like data owners are in charge of  their own little country or
+fiefdom, and then come together with others to coordinate on issues that
+impact across sovereign lines
+
+
+--- PAGE BREAK ---
+
+OTHER DG TITLES YOU MAY NEED
+
+• “Data Steward” is a generic term that can be useful but can also mean nothing
+
+• “Data Custodian” is a term that actually has a great literal meaning but in reality
+should not often be used because nobody wants to be called a custodian (too
+close to janitor)
+
+• “Data Governance Coordinator” is often a useful title but downplays the active
+role that this person should have. “DG Lead” may be a better fit when this
+person is really pushing the initiative forward
+
+• “Executive Sponsor” is often important but can feel like a bull’s-eye too – it
+
+might be even better to have an “Executive Committee,” which connotes a more
+active presence by multiple senior stakeholders
+
+• “Data Governance Council” is good for the ultimate steering authority
+
+underneath executive leadership
+
+• Other titles should be created for the roles as they are defined or coalesce
+
+naturally – but in some organizations avoiding titles entirely is a better way to go
+
+SAMPLE JOB DESCRIPTIONS
+
+• When looking to fill positions as part of a Data Governance effort, titles can
+
+both help or hurt the recruitment process
+
+• Sadly, most DG terms are not widely known or understood by folks not doing
+
+them already
+
+• Especially if sourcing candidates internally, people are unlikely to be doing
+
+these roles already
+
+• It is best to explain the activities and responsibilities as thoroughly as possible
+
+while working with titles that can be interpreted in a variety of ways
+
+• For example, a data steward position description could include:
+
+• Lead efforts to define commonly used data with real-world language, help
+
+establish appropriate-use parameters for specific data sets, and collaborate with
+cross-functional teams to set policies and standards for related data assets
+
+
+--- PAGE BREAK ---
+
+GETTING STARTED WITH DATA GOVERNANCE
+
+Change Management
+
+PRIORITIZATION AND PROJECTS
+
+• We’ve talked about Data Governance being a change management function, but
+
+we haven’t addressed how it fits alongside everything else
+
+• Because Data Governance can align easily to existing change initiatives – and
+because change initiatives tend to have material data impacts, this is important
+
+• Most organizations treat existing project and program management/PMO
+
+separate from Data Governance – this is logical, but often are missed
+opportunities to coordinate between the two
+
+• By itself, Data Governance needs to prioritize activities and conduct projects
+
+• These can be managed independently, but there are risks anytime Data
+
+Governance is treated as different from anything else
+
+• Be proactive and reach out to other change groups – we may still keep DG as an
+island, but trying to coordinate will likely lead to some goodwill, if  nothing else
+
+
+--- PAGE BREAK ---
+
+TIME-MANAGEMENT TECHNIQUES BUSY PEOPLE
+USE, AND HOW TO KEEP THEM ON TRACK
+
+• People love to wear their busyness like a badge of honor
+
+• They tend to have more meetings the higher they move in the
+
+organization
+
+• There is a trend towards favoring instant messages and texts over
+
+emails
+
+• People will skip long emails and may not get back to them
+
+• Norms vary greatly from organization to organization
+
+• Visibility and reminders are effective in motivating people to meet
+
+their obligations
+
+• Be careful about calling people out and making them an example –
+it can have a negative effect on everybody, especially longer-term
+
+IDENTIFYING AND MAKING TRADEOFFS
+
+• We cannot overstate the importance of being deliberate in prioritization and
+
+making tradeoffs
+
+• Being transparent and clearly communicating options and decisions is as
+
+important as anything
+
+• If those with actual authority fail to decide, we need to have a way of moving
+
+forward
+
+• Do not be afraid to suggest recommendations – this provides others an easy
+out (to agree) on items that they do not care much about, but gives them the
+option to exert more mental energy on those topics of particular interest
+
+• Never trust people’s memory. This is when meeting minutes and
+
+documentation become especially crucial
+
+
+--- PAGE BREAK ---
+
+FORCE-RANKING
+
+• Force-ranking is when we have a clear, number-based ordering to a list (1, 2, 3, 4,
+
+etc.)
+
+• This is great for prioritization, especially when we have benefits and costs outlined
+
+alongside any specific dependencies and constraints
+
+• It is much more actionable than generic low-medium-high types of classification
+
+• Under ideal circumstances, we would simply apply whatever resources to the
+
+prioritized list in that order, and start checking things off
+
+• In more realistic circumstances, we do have additional dependencies and constraints,
+
+so we’ll often have to adjust the order of what we actually work on
+
+• A force-ranked prioritization mechanism is easier to keep up to date with new items
+and information, because the ranking aspect naturally drives more attention than
+more vague mechanisms
+
+HOW AGILE MAY (OR MAY NOT) FIT INTO THE
+PICTURE FOR YOU
+
+• Agile is a project management methodology embedded with techniques to
+
+manage work while respecting tradeoffs and shifting priorities
+
+• Agile principles have strong alignment to many of the things we’ve been
+
+discussing
+
+• In practice, however, it isn’t always easy to be Agile for Data Governance
+
+workflows
+
+• This is partially because Data Governance project teams tend to be part-
+
+time, with an unpredictable quantity of work cycles available in each period
+
+• It can also be difficult to implement Agile with folks unfamiliar with its
+
+principles and norms
+
+• The best general advice is to become familiar with Agile and find ways to
+
+incorporate principles into your organization in a thoughtful way
+
+
+--- PAGE BREAK ---
+
+HOW DATA GOVERNANCE IS MORE LIKE HR
+THAN PMO
+• Data Governance is definitely not a project with a defined middle or end
+
+• It certainly has projects, but it is more than a collection of projects, which
+
+is effectively what a PMO is
+
+• Data Governance has a responsibility to interweave with existing
+processes, project-based or not, if they influence data in any way
+
+• Human Resources has a similar relationship with people, in that HR
+
+provides functions and controls that support and guide humans as they
+do other things
+
+• For DG, this can manifest in many different structures or models (center-
+of-excellence, shared service, cross-functional team, advisory board, etc.),
+but the relationship inside the organization is relatively consistent
+
+DEVELOPING PROJECT PLANS FOR DG
+
+• Understanding that DG is a bit unique in where it sits in an organization,
+
+conducting projects is still something that often comes up
+
+• DG project teams are rarely all part of  the same team, and often cross over
+
+business units
+
+• Project participants rarely are dedicated to the project full-time, so this leads to
+
+conflicting priorities and the potential for time allocation issues
+
+• The DG organization should factor this into expectations for projects, and gain
+
+clear and documented commitments for people’s time
+
+• DG projects may have a second-citizen status, especially in the early days, so
+planning contingencies for unexpected events may need more focus than for
+“typical” projects
+
+• While Agile can provide some benefits, it is better to fit within the organizational
+norms for managing projects, as this will save political capital for issues that are
+more connected to data (avoid rocking the boat unless necessary)
+
+
+--- PAGE BREAK ---
+
+DG’S RELATIONSHIP WITH PROGRAM/PROJECT
+MANAGEMENT AND CHANGE ADVISORY BOARDS
+
+• Data Governance is not the only change agent in town, so let’s not reinvent the
+
+wheel if  we don’t need to
+
+• Most larger organizations have one or more coordinated efforts to manage change
+
+• These change coordinators have been fighting some of  the same battles we need to
+
+as Data Governance:
+
+• Coordinating across business units
+
+• Managing time commitments
+
+•
+
+Identifying dependencies and resolving conflicts
+
+• They likely have been overcoming a series of  data challenges using uncoordinated
+heroics on a project-by-project basis – or they may have caused data challenges for
+others due to a lack of  awareness
+
+• Either way, Data Governance is on the same team and can help these change
+
+coordinators be more successful
+
+COORDINATING WITH OTHER CHANGE
+MANAGERS
+• Do not, however, expect a warm response before earning it – these folks
+
+can be protective of their turf
+
+• Change managers also have to develop thick skin because they are often
+viewed as a necessary evil, and get more than their share of complaints
+
+• Data Governance, here as much as anywhere, needs a servant leadership
+
+approach to provide value before asking for a lot of help
+
+• If we can find ways to connect to other change initiatives and provide
+
+service to them, we will be much more likely to be invited in to participate
+more directly over time
+
+• Some organizations have been successful with a combined DG/PMO
+
+approach – this can work, but remember that they are not the same thing
+
+
+--- PAGE BREAK ---
+
+KNOWING WHEN TO IMPLEMENT REQUEST
+MANAGEMENT AND TICKETING SYSTEMS
+
+• Data Governance folks tend to be pretty well-organized and like to have things in their
+
+place
+
+• This leads to a tendency to overengineer processes and make things more laborious than
+
+necessary
+
+• A general sentiment of “earn the tools you buy” is a good approach, meaning that you
+
+should feel a bit of a pain before making things more complex
+
+• This is another area where, when ready to level up, solutions are already going to exist in
+
+your organization
+
+• This may also be a sign that your DG efforts have reached a point of needing to do more
+
+formal coordination with other change management functions
+
+• Try not to overdo it. The more effort required to facilitate Data Governance, the fewer
+
+resources available to do the actual work of Data Governance
+
+GETTING STARTED WITH DATA GOVERNANCE
+
+Scaling Data Governance Operations
+
+
+--- PAGE BREAK ---
+
+LEADING THE CHARGE WHEN YOU ARE NOT IN
+CHARGE
+
+• This is a consideration in a number of  contexts:
+
+• When DG has no actual authority
+
+• When we personally have little authority outside DG but are responsible for making DG
+
+successful
+
+•
+
+In a culture of  drop-everything-for-today’s-emergency
+
+• There is no doubt that this is a challenge under any circumstance
+
+• The best approach is to focus on providing transparency of  information before trying to
+
+change things
+
+• This can be less directly confrontational, but still influential, as the problems become clear
+
+•
+
+If  we have suggested solutions at the ready, we’ll be able to plug in when we have the
+opportunity
+
+• Be careful to avoid being put in impossible situations while also not becoming someone
+
+who only says no
+
+HOW ALL SUCCESSFUL DATA GOVERNANCE
+MUST OPERATE WITH LEVERAGE
+
+• To have a meaningful impact in a large organization, Data Governance must
+
+find a way to execute at scale without becoming a bottleneck
+
+• This can be achieved through a combination of techniques:
+
+• Education
+• Delegating authority
+• Decentralizing processes
+
+• Clear and efficiently enforced guardrails
+• Exception management
+
+• Reviews and audits
+
+• This is best when coordinating effectively with other change managers, but isn’t
+
+absolutely required, especially early on
+
+
+--- PAGE BREAK ---
+
+DELEGATION AND ESCALATION TECHNIQUES
+
+• We can push out DG-related decision-making as far as the edges of
+
+our organization, but it will only work if the people making decisions
+have the awareness and ability to make informed decisions
+
+• Education and guardrails are important, but this may also be
+
+uncomfortable for folks that operate normally under more direction
+
+• Establishing a defined path and resources to help resolve questions
+and provide guidance will help develop confidence and encourage
+growth
+
+• The ability to enforce authority will require the effective participation
+
+of the rest of the DG hierarchy
+
+• Do not forget to quantify the delegated activities and results – this
+
+will help identify areas that need more attention
+
+SCALING THE EARLY ORGANIZATIONAL
+STRUCTURES
+
+•
+
+In the early days of  Data Governance, we may be starting with a handful or a
+dozen regular participants that take on the brunt of  work
+
+• Progress can be made, and big items like business glossaries of  important
+
+definitions can provide a sense of  accomplishment
+
+• By basing our internal success on how much is created, we set ourselves up for
+
+failure when judged through the lenses of  results and impact
+
+• As we create the structures of  Data Governance, consider how each person early
+
+on will scale to a team of  people
+
+• Allow for some flexibility in the mechanics of  making it happen, as being too
+
+prescriptive may cause more friction than optimal
+
+• Continue to find ways to measure effectively, and let that information drive
+
+decisions, instead of  personal preferences or gut feelings
+
+
+--- PAGE BREAK ---
+
+WHEN SENIOR FOLKS DROP THE BALL
+
+• When we expand the Data Governance hierarchy and delegate responsibilities, we
+
+will inevitably run into folks that don’t do what they’ve been asked
+
+• This is a little easier to deal with for folks lower in the organizational hierarchy,
+
+but what happens when the data owner or executive sponsor lets us down?
+
+• First, summon a little courage because this is not going to be particularly
+
+comfortable
+
+• Next, talk to them and find out where their priorities are – this is best in a one-on-
+one setting, as we do not want to call them out publicly until we have a clear
+understanding of all sides
+
+• We need to remind them of their importance to the success of Data Governance
+
+• But we also need to remember that they are typically busy, important people who
+may have had something legitimately more important going on – like testifying to
+Congress or finding money for payroll
+
+GETTING STARTED WITH DATA GOVERNANCE
+
+Getting Investment in Data Governance
+
+
+--- PAGE BREAK ---
+
+CHAMPIONING SUCCESSES TO DRIVE FURTHER
+INVESTMENT
+
+• This is an area we’ve touched on throughout the week, but it merits additional
+
+emphasis
+
+• Data Governance can be overlooked easily:
+
+•
+
+•
+
+It is intangible
+
+Its value proposition is as an intermediate function that helps other efforts be more successful
+
+• Rarely does DG have conclusive and precise impacts
+
+• Part of  the reason for quantification of  Data Governance efforts is to evaluate our own
+performance, but part of  the reason is to lend credibility to our DG marketing efforts
+
+• We have to become comfortable promoting the role of  DG, and soliciting others to
+
+endorse DG’s impact
+
+• Though it helps to tell others ourselves how much DG matters, our customers will be
+
+more persuasive
+
+
+UNDERSTANDING THE LANGUAGE OF EXECUTIVE
+DECISION-MAKING
+
+• Executives look at investment opportunities through three lenses:
+
+• Costs
+
+• Benefits
+• Risks
+
+• They look at calculations to determine Return on Investment (ROI), like Investment
+
+Rate of Return (IRR) and Net Present Value (NPV)
+
+• Especially given the nebulous and intermediary nature of Data Governance, we must
+present a story that is even more clear and concise than other potential investments
+
+• The audience is willing, if skeptical: Leaders understand that data is valuable, and it
+
+makes intuitive sense that we should do something about it – but they typically do not
+know themselves what form those investments should take
+
+
+--- PAGE BREAK ---
+
+DEVELOPING A BUSINESS CASE THAT BLOWS
+THEM AWAY
+
+• We have all the tools to make it happen, but most Data Governance folks
+
+have little experience crafting extensive business plans or persuasive
+presentations
+
+• Many of us are a little too deeply involved in the details to know the key
+
+points to articulate
+
+• Just like when we find ourselves overwhelmed by technical complexity,
+
+this is a situation where we should reach out for help
+
+• Recall that marketing folks can be some of our best data people, and they
+
+will also have familiarity with these kinds of situations
+
+• This is also where relying on data can help us build our case, and a
+prototype or proof of concept may also be a powerful addition
+
+DELIVERING BIG ON PROMISES
+
+• We might need to make some relatively big promises to get Data
+
+Governance going, but the potential is even greater
+
+• Perception of our effectiveness is awareness multiplied by actual
+
+value
+
+• Not to downplay the importance of quantification of our Data
+Governance efforts, it is more important to actually create value
+
+• Value comes from driving a material change in business outcomes,
+
+measured by impacts to revenue, costs, and risk management
+
+• This implies that Data Governance should not “stay in its lane” –
+instead, find opportunities to help data work better anywhere in
+your organization
+
+• Many simple improvements can accomplish more in aggregate than
+the big and complex initiatives, and the stories are easier to tell too!
+
+
+--- PAGE BREAK ---
+
+GETTING STARTED WITH DATA GOVERNANCE
+
+Data Governance Careers
+
+MOVING UPSTREAM FROM DG COORDINATION
+
+• The beauty of Data Governance is that it can touch any area of an
+organization and help influence how that area works with data
+
+• There are a wide range of functions that come into play, and many
+
+opportunities to forge interesting and beneficial networking relationships
+
+• Moving into higher-level roles within the Data Governance organization is a
+natural progression, especially when we have been involved from the start of
+building it
+
+• But often even more substantial are the tangential opportunities that come
+
+from Data Governance work – moves into new departments or elevating our
+responsibilities in our current teams
+
+• The work of Data Governance also teaches us widely applicable skills that
+come in handy, like building a business case or doing quantitative analysis
+
+
+--- PAGE BREAK ---
+
+THE MANY FACETS OF DATA GOVERNANCE
+CAREERS
+
+• Data Governance careers range from highly technical to senior leadership, and from
+
+being a valued direct contributor to managing teams
+
+• Data is also becoming important enough to most areas of the business that having a
+
+strong foundation from the Data Governance perspective can set us apart
+
+• These roles do not even need to be data-centric
+
+• But going back to Data Governance proper, as DG scales it requires higher-level
+
+personnel to guide it
+
+• These folks can be similar to other change management leaders, who often occupy
+positions that link the tactical execution of change initiatives to the strategic vision
+of executive leadership
+
+• And data is becoming an ever-bigger part of the strategic equation
+
+THE INCREASINGLY STRATEGIC ROLE OF DATA
+
+• Data used to be a competitive differentiator, where some organizations built
+
+data-driven organizations that were especially responsive and nimble, and they’d
+often crush their legacy competitors who had not paid as much attention to data
+
+• But it took time, and that time has now passed
+
+• Today, advanced data capabilities are table stakes, meaning that to have any
+
+kind of long-term viability as a business, we must embrace data-driven
+improvements
+
+• Just as our organizations’ relationships with data has evolved, so too will Data
+
+Governance need to evolve as well
+
+• The Data Governance of 10 or 20 years ago will not be sufficient today, nor will
+today’s Data Governance be able to accommodate the demands of tomorrow
+
+
+--- PAGE BREAK ---
+
+HOW SIMPLICITY IS INCREDIBLY COMPLEX
+
+• Powerful and complex runs opposite to nimble and simple
+
+• But we want our data to be all of the above
+
+• This seemingly paradoxical state is actually possible, but requires
+
+refinement and an ability to dial in granularity on demand
+
+• Like so many things, our ability to communicate with one another
+
+through data systems is what limits the capabilities
+
+• The data is there, and the knowledge can usually be found, but
+
+understanding depends on context – not just of metadata, but on
+the ability of the recipient to interpret the information correctly
+
+• If you do this long enough, everything looks like a data system,
+
+and sharing of information is just another form of ETL
+
+CHIEF LINGUISTICS, STARTING WITH THE CDO
+
+• A Chief Data Officer (CDO) is a relatively new concept,
+
+becoming somewhat common over the last decade
+
+• The CDO, and companion Chief Analytics, Digital, etc., roles
+are trying to elevate the strategic side of data capabilities to the
+C-Level
+
+• Though it sounds like it should be part of this group, the Chief
+Information Officer (CIO) title was wasted on an attempt to
+make the Chief Technology Officer be more business-focused
+(it didn’t really work out)
+
+• So now we’ve decided to try harder and basically do the same
+
+thing again
+
+• But now watch out for CDOs that have no actual authority (or
+teams) – while somebody meant well, this is most assuredly not
+a C-Level position
+
+
+--- PAGE BREAK ---
+
+UNDERSTANDING THE ROLE OF A CHIEF DATA
+OFFICER
+
+• A CDO is the ultimate sponsor of  data capabilities inside the organization – they are the
+
+number one get-stuff-done-with-data advocate
+
+• Data Governance will almost certainly roll up to a CDO, if  one exists
+
+• The CDO should have a strong grasp of  the business, including deep perspectives on
+
+operational and strategic considerations
+
+• The CDO should also have a strong technology proficiency, as data needs sophisticated
+
+systems to drive the business
+
+• Data warehouses, advanced analytics, visualizations, etc. – these don’t just happen
+
+successfully without a technology and business partnership, and the CDO is that connection
+point
+
+• There is much debate about where the CDO fits in an organization, but it depends – there is
+
+no one-size-fits-all answer, but the debate can reveal much more than simply an
+organizational structure
+
+END OF APPENDIX
+
+
+--- PAGE BREAK ---
+
