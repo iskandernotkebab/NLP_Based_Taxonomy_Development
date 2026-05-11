@@ -1,10 +1,10 @@
-**NLP-Based Taxonomy Development Project**
+# NLP-Based Taxonomy Development Project
 
 This repository is a sanitized version of my master’s capstone project. The project focused on using NLP and document analysis techniques to process a large collection of text-based documents and extract useful information from them.
 
 The project includes notebooks for converting PDFs to text, counting words, searching documents by keyword, extracting keywords, generating word clouds, analyzing bigrams, merging datasets, and applying topic modeling. The original version used private project files, so this public version has been cleaned before being uploaded to GitHub.
 
-**Project Overview**
+## Project Overview
 
 A lot of useful information is stored in unstructured documents, but it is difficult to analyze that information manually when there are many files. This project was built to make that process easier.
 
@@ -12,7 +12,7 @@ The workflow takes text-heavy documents and makes them easier to search, summari
 
 This project helped me practice working with messy text data, organizing document-processing workflows, and turning raw text into structured outputs that are easier to interpret.
 
-**Main Features**
+## Main Features
 
 PDF_to_Text_Converter.ipynb
 
@@ -46,7 +46,7 @@ Video_Transcription_to_Audio.ipynb
 
 This notebook was part of a transcript-processing workflow connected to video/audio-based text analysis.
 
-**Privacy and Sanitization Note**
+## Privacy Note
 
 This repository is a public version of a private academic project. Before uploading it, I removed private datasets, credentials, internal file paths, document names, generated outputs, and other sensitive information.
 
